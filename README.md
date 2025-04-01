@@ -1,4 +1,3 @@
-![Mental Health Chatbot](https://your-banner-image-url.com)
 
 # 🧠 Mental Health Chatbot 🤖
 
