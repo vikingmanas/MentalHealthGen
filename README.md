@@ -50,11 +50,6 @@ $ python app.py
 
 ---
 
-## 🎥 Demo
-
-![Chatbot Demo](https://your-demo-video-url.com)
-
----
 
 ## 💡 Usage Guide
 
