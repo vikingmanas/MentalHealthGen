@@ -147,7 +147,8 @@ with gr.Blocks(theme=gr.themes.Soft()) as app:
 
     gr.Markdown("This chatbot provides general support. For urgent issues, seek help from licensed professionals.")
 
-app.launch()
+app.launch(server_name="0.0.0.0", server_port=8080)
+
 
 
 # In[10]:
